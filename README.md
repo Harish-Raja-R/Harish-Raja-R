@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Ayon</a>! <img src="Profile2/run.png" width="50"><img align='right' src="https://spotify-bar.vercel.app/api/now-playing" width="500"></h2>
+<h2> Hi, I'm <a href='https://bento.me/ayon-ssp' target="_blank">Harish Raja R</a>! <img src="Profile2/run.png" width="50"><img align='right' src="https://spotify-bar.vercel.app/api/now-playing" width="500"></h2>
 
 
 
