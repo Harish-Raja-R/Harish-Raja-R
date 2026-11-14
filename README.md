@@ -14,38 +14,61 @@
 ## ☕ About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=7C83FD&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Harish+Raja+R+%F0%9F%91%8B;I+turn+ideas+into+working+software;Building+AI-powered+%26+full-stack+products;Curious+mind.+Builder's+mindset." alt="Animated About Me introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2200&pause=800&color=7C83FD&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Harish+Raja+R+%F0%9F%91%8B;I+turn+ideas+into+working+software;I+build+at+the+intersection+of+AI+%26+engineering;From+curiosity+to+code+to+real-world+impact" alt="Animated introduction" />
+  <br/>
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-7C83FD?style=for-the-badge&logo=github&logoColor=white" alt="Always learning" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING%20THINGS-20B2AA?style=for-the-badge&logo= rocket&logoColor=white" alt="Building things" />
 </div>
 
 <table>
   <tr>
-    <td width="64%" valign="middle">
-      <h3>👋 Hello, World!</h3>
-      <p>🎓 I'm pursuing an <b>Integrated M.Sc. in Artificial Intelligence &amp; Machine Learning</b> at <b>Coimbatore Institute of Technology (CIT)</b>.</p>
-      <p>💻 I'm a developer who enjoys working at the intersection of <b>software engineering and AI</b> — from crafting full-stack applications and APIs to experimenting with machine learning models.</p>
-      <p>🧠 I’m especially curious about how intelligent systems can become more <b>reliable, explainable, and useful</b> in real-world applications.</p>
-      <p>🚀 I learn by building: exploring an idea, experimenting with technologies, solving problems, and turning the results into working prototypes.</p>
-      <h3>⚡ What I'm up to</h3>
-      <p>🔹 Developing full-stack apps with modern frontend and backend tools<br/>
-      🔹 Exploring deep learning, NLP, transformers, and computer vision<br/>
-      🔹 Investigating RAG hallucination detection and AI reliability<br/>
-      🔹 Learning about federated learning and privacy-aware AI<br/>
-      🔹 Sharpening DSA and software engineering fundamentals</p>
-      <p><b>💡 My approach:</b> Stay curious. Build with purpose. Keep improving.</p>
+    <td width="62%" valign="middle">
+      <h3>👋 Hello, World! I'm Harish.</h3>
+      <p>🎓 Pursuing an <b>Integrated M.Sc. in Artificial Intelligence &amp; Machine Learning</b> at <b>Coimbatore Institute of Technology (CIT)</b>.</p>
+      <p>💻 I love building where <b>software engineering meets AI</b> — creating full-stack applications, designing APIs, and experimenting with machine learning systems.</p>
+      <p>🧠 I'm fascinated by intelligent systems that are not just powerful, but also <b>reliable, explainable, and useful</b>.</p>
+      <p>🚀 My favourite workflow: <b>Imagine → Experiment → Build → Improve.</b></p>
     </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="Profile2/Ayon_ssp.gif" width="260" alt="Animated developer working at a computer" />
+    <td width="38%" align="center" valign="middle">
+      <img src="Profile2/Ayon_ssp.gif" width="260" alt="Animated developer coding at a computer" />
       <br/>
-      <img src="https://img.shields.io/badge/BUILD-7C83FD?style=flat-square&logo=github&logoColor=white" alt="Build" />
-      <img src="https://img.shields.io/badge/LEARN-20B2AA?style=flat-square&logo=readthedocs&logoColor=white" alt="Learn" />
-      <img src="https://img.shields.io/badge/REPEAT-F39C12?style=flat-square&logo=loop&logoColor=white" alt="Repeat" />
-      <br/><sub><b>Code • Learn • Build • Repeat</b></sub>
+      <sub><b>Currently in my build-and-learn era ✨</b></sub>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational developer quote" />
+  <h3>⚡ What keeps me building?</h3>
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="Profile2/python.gif" width="58" alt="Python animation" />
+        <br/><b>AI &amp; ML</b>
+        <br/><sub>Models, NLP, vision</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="Profile2/react.gif" width="58" alt="React animation" />
+        <br/><b>Full Stack</b>
+        <br/><sub>Apps, APIs, products</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="Profile2/git.gif" width="58" alt="Git animation" />
+        <br/><b>Engineering</b>
+        <br/><sub>Code, DSA, systems</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="Profile2/robhi.gif" width="58" alt="Robot animation" />
+        <br/><b>Research</b>
+        <br/><sub>Reliable &amp; federated AI</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=700&color=20B2AA&center=true&vCenter=true&width=780&lines=Exploring+RAG+hallucination+detection+%F0%9F%A7%A0;Building+full-stack+products+%F0%9F%92%BB;Learning+federated+learning+%F0%9F%8C%90;Sharpening+DSA+and+engineering+fundamentals+%E2%9A%99%EF%B8%8F" alt="Animated current focus" />
+  <br/>
+  <b>💡 Stay curious. Build with purpose. Keep improving.</b>
 </div>
 
 ---
