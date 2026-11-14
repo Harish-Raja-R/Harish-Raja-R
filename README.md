@@ -11,21 +11,33 @@
 
 ---
 
-## <img src="Profile2/cofi.png" width="30" height="30" alt="coffee" /> About Me
+## ☕ About Me
 
-<img align="right" src="Profile2/Ayon_ssp.gif" width="300" alt="Animated developer coding" />
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <h3>Hey there! I'm Harish 👋</h3>
+      <p>🎓 An Integrated M.Sc. Artificial Intelligence &amp; Machine Learning student at <b>Coimbatore Institute of Technology (CIT)</b>.</p>
+      <p>💻 I enjoy designing and building software that brings together <b>full-stack engineering and intelligent systems</b>.</p>
+      <p>🔍 My interests include applied machine learning, NLP, computer vision, AI reliability, and developer tools.</p>
+      <p>🚀 I like taking ideas from experimentation to working prototypes, learning new technologies, and solving practical problems.</p>
+      <p><b>Currently focused on:</b></p>
+      <ul>
+        <li>Building full-stack applications and REST APIs</li>
+        <li>Exploring deep learning, transformers, and RAG evaluation</li>
+        <li>Researching federated learning and reliable AI</li>
+        <li>Strengthening DSA and software engineering fundamentals</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="Profile2/Ayon_ssp.gif" width="230" alt="Animated developer working at a computer" />
+      <br/>
+      <sub>Code • Learn • Build • Repeat</sub>
+    </td>
+  </tr>
+</table>
 
-🎓 Integrated M.Sc. Artificial Intelligence & Machine Learning student at **Coimbatore Institute of Technology (CIT), Coimbatore**.
-
-💻 Aspiring **Software Engineer and AI/ML Developer** interested in building practical products, experimenting with intelligent systems, and solving real-world problems through code.
-
-- 🔭 Building full-stack applications and applied AI/ML projects
-- 🧠 Exploring NLP, deep learning, computer vision, and reliable AI
-- 🧪 Interested in research, model evaluation, and experimentation
-- ⚙️ Enjoy automating workflows and learning new technologies
-- 🎯 Current focus: scalable software, DSA, and applied machine learning
-
-<br clear="right"/>
+---
 
 ## 🧑‍💻 Developer Snapshot
 
@@ -33,18 +45,18 @@
 class HarishRaja:
     pronouns = "he/him"
     education = "Integrated M.Sc. AI & ML — CIT"
-    roles = ["Software Developer", "AI/ML Developer", "Builder"]
+    roles = ["Software Developer", "AI/ML Developer"]
 
     languages = [
         "Python", "JavaScript", "TypeScript", "R",
         "C", "HTML", "CSS", "SQL"
     ]
 
-    focus = [
+    interests = [
         "Full-Stack Development",
         "Machine Learning & Deep Learning",
         "NLP & Computer Vision",
-        "AI Reliability & RAG Evaluation",
+        "RAG Evaluation & AI Reliability",
         "Federated Learning"
     ]
 
@@ -90,8 +102,10 @@ class HarishRaja:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harish-Raja-R&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Raja-R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harish-Raja-R&theme=github_dark" alt="GitHub profile statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harish-Raja-R&theme=github_dark" alt="Most used languages by commits" />
+  <br/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-Raja-R&theme=github_dark" alt="GitHub contribution profile summary" />
   <br/>
   <img width="70%" src="https://streak-stats.demolab.com?user=Harish-Raja-R&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
