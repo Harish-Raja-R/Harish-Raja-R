@@ -13,29 +13,40 @@
 
 ## ☕ About Me
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=7C83FD&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Harish+Raja+R+%F0%9F%91%8B;I+turn+ideas+into+working+software;Building+AI-powered+%26+full-stack+products;Curious+mind.+Builder's+mindset." alt="Animated About Me introduction" />
+</div>
+
 <table>
   <tr>
-    <td width="65%" valign="middle">
-      <h3>Hey there! I'm Harish 👋</h3>
-      <p>🎓 An Integrated M.Sc. Artificial Intelligence &amp; Machine Learning student at <b>Coimbatore Institute of Technology (CIT)</b>.</p>
-      <p>💻 I enjoy designing and building software that brings together <b>full-stack engineering and intelligent systems</b>.</p>
-      <p>🔍 My interests include applied machine learning, NLP, computer vision, AI reliability, and developer tools.</p>
-      <p>🚀 I like taking ideas from experimentation to working prototypes, learning new technologies, and solving practical problems.</p>
-      <p><b>Currently focused on:</b></p>
-      <ul>
-        <li>Building full-stack applications and REST APIs</li>
-        <li>Exploring deep learning, transformers, and RAG evaluation</li>
-        <li>Researching federated learning and reliable AI</li>
-        <li>Strengthening DSA and software engineering fundamentals</li>
-      </ul>
+    <td width="64%" valign="middle">
+      <h3>👋 Hello, World!</h3>
+      <p>🎓 I'm pursuing an <b>Integrated M.Sc. in Artificial Intelligence &amp; Machine Learning</b> at <b>Coimbatore Institute of Technology (CIT)</b>.</p>
+      <p>💻 I'm a developer who enjoys working at the intersection of <b>software engineering and AI</b> — from crafting full-stack applications and APIs to experimenting with machine learning models.</p>
+      <p>🧠 I’m especially curious about how intelligent systems can become more <b>reliable, explainable, and useful</b> in real-world applications.</p>
+      <p>🚀 I learn by building: exploring an idea, experimenting with technologies, solving problems, and turning the results into working prototypes.</p>
+      <h3>⚡ What I'm up to</h3>
+      <p>🔹 Developing full-stack apps with modern frontend and backend tools<br/>
+      🔹 Exploring deep learning, NLP, transformers, and computer vision<br/>
+      🔹 Investigating RAG hallucination detection and AI reliability<br/>
+      🔹 Learning about federated learning and privacy-aware AI<br/>
+      🔹 Sharpening DSA and software engineering fundamentals</p>
+      <p><b>💡 My approach:</b> Stay curious. Build with purpose. Keep improving.</p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="Profile2/Ayon_ssp.gif" width="230" alt="Animated developer working at a computer" />
+    <td width="36%" align="center" valign="middle">
+      <img src="Profile2/Ayon_ssp.gif" width="260" alt="Animated developer working at a computer" />
       <br/>
-      <sub>Code • Learn • Build • Repeat</sub>
+      <img src="https://img.shields.io/badge/BUILD-7C83FD?style=flat-square&logo=github&logoColor=white" alt="Build" />
+      <img src="https://img.shields.io/badge/LEARN-20B2AA?style=flat-square&logo=readthedocs&logoColor=white" alt="Learn" />
+      <img src="https://img.shields.io/badge/REPEAT-F39C12?style=flat-square&logo=loop&logoColor=white" alt="Repeat" />
+      <br/><sub><b>Code • Learn • Build • Repeat</b></sub>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational developer quote" />
+</div>
 
 ---
 
