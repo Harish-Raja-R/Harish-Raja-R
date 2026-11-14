@@ -169,8 +169,8 @@ class HarishRaja:
 
 <div align="center">
   <a href="https://github.com/Harish-Raja-R"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://sitessy.in"><img src="https://img.shields.io/badge/Portfolio-7C83FD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://harish-raja-r-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C83FD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/harish-raja-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <div align="center">
